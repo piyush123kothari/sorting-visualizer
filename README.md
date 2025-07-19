@@ -1,2 +1,2 @@
 # sorting-visualizer
-This is a my sorting visual project.
+Sorting Visualizer is a development project.It involves creating an interactive application,that allow user to visualize different sorting algorithms. 
